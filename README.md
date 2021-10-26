@@ -1,7 +1,7 @@
 # Market Basket Analysis 
 
 ### Note
-Group project in the course "Data Mining: Theory and Technologies" (Fall Semester 2020).
+Group project in the course "Data Mining: Theory and Technologies" (Fall 2020).
 
 ## Overview
 We implemented Apriori algorithm and FP-Growth algorithm to mine association rules in sales datasets. Our findings have been visualized with the use of Python and R.
